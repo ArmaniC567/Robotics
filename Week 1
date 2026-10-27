@@ -1,0 +1,22 @@
+public class Team4414 { 
+    public static void main(String[] args) {
+        String text1 = "Team 4414 HighTide Stats 2026,";
+        String text2 = "Win Rate";
+        double number = 0.97;
+        String text3 = "Loss Rate";
+        Double number2 = 0.28;
+        String text4 = "Amount of Wins";
+        int number5 = 70;
+        String text5 = "Amount of Losses";
+        int number6 = 2;
+        System.out.println(text1);
+        System.out.println(text2);
+        System.out.println(number);
+        System.out.println(text3);
+        System.out.println(number2);
+        System.out.println(text4);
+        System.out.println(number5);
+        System.out.println(text5);
+        System.out.println(number6);
+    }
+}    
